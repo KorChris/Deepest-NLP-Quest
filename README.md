@@ -10,7 +10,7 @@
 * 다양한 머신러닝 기법을 실험해보기 위해 train set을 쪼개어 각각 실험해보기
 
 실험 결과, Cat Boost Classifier를 사용하여 Private : 0.92 / Public : 0.87659 의 Score를 얻었으며 <br>
-놀랍게도 '오염된 데이터'를 걸러내지 않았더니 Private : 0.92 / Public : 0.88085 의 Score를 얻었다.
+놀랍게도 '오염된 데이터'를 걸러내지 않았더니 Private : 0.92 / Public : 0.88085 의 Score를 얻었습니다.
 
 ---
 

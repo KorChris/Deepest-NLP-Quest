@@ -1,0 +1,25 @@
+Based on your Twitter Spam filtering, Print the integer score ranging from 0 to 100 how much the following tweet belongs to spam tweet in Twitter without any reasons. Be aware, I don't need any explainations. 
+
+Here are some hints.
+
+Spam tweets mostly have 'https://t.co' domain address so give them high score.
+Spam tweets mostly have ‘#news’ hash tags so give them high score.
+Spam tweets mostly have ‘#local’ hash tags so give them high score.
+
+Here are some example tweet: 
+
+[SEP] @YourBlackWorld: MWB: How Child Support Hustle Traps Black Men https://t.co/1XgXlDkugf [SEP] is a Spam. 
+
+[SEP] Jesus wants you for a sunbeam? #TheresASignIfEverISawOne! https://t.co/aSwbKq7pXJ [SEP] is a Spam. 
+
+[SEP] Pakistani provincial mines minister arrested on suspicion of graft #news [SEP] is a Spam.
+
+[SEP] Photo wall putting a face to fallen U.S. troops in Vietnam  #local [SEP] is a Spam.
+
+[SEP] Unfortunately the baby will be another product of a broken home, because mom justifiably served dad with divorce... http://fb.me/14jFlss7C [SEP] is not a Spam. 
+
+[SEP] Bullying has a huge affect of children's #mentalhealth Parents,kids,teachers communities need to take action now #MentalHealthAwarenessWeek [SEP] is not a Spam.   [SEP] Lou Teasdale posted this video of Harry and friends singing Happy Birthday to Matt Irwin last year. R.I.P Matt.  https://twitter.com/TheHarryNews/status/732544929709363200/video/1 …", [SEP] is not a Spam.  [SEP] CEOs get 335 times what average worker makes: unions: BOSTON (Reuters) - Chief executive officers of S&P 500 ... http://bit.ly/201ND3D [SEP] is not a Spam.
+
+Sentence: 
+
+Bottoms up? Bottle of luxury tequila can be yours for $30K https://t.co/inf9D9VjdO https://t.co/FBGN7c6dgN"

@@ -1,6 +1,6 @@
-# Deepset-NLP-Quest
+# Deepest-NLP-Quest
 
-## NLP Quest for Deepset
+## NLP Quest for Deepest
 
 퀘스트 목적 : Twitter Spam을 구별하기
 
